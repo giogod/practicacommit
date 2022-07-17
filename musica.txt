@@ -1,0 +1,3 @@
+solo 1
+solo 2
+solo 3
